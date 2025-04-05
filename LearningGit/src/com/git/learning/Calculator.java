@@ -5,6 +5,7 @@ public class Calculator {
 		int result =0;
 		result= x+y;
 		return result;
+		
 	}
 	public int multiply(int x,int y) {
 		return x*y;
